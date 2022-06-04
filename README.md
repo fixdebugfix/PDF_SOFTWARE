@@ -12,7 +12,8 @@
 
 
 git lfs处理>25M文件
-```ini
+
+```cpp
 cd upload #进入名为upload的文件夹，提前将要上传的大文件放入该文件夹下
 git init #创建本地仓库环境
 git lfs install #安装大文件上传应用
